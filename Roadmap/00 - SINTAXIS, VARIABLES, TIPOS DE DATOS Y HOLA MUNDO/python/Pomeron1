@@ -1,0 +1,19 @@
+"www.python.org"
+""
+Esto es un 
+comentario
+en varias lineas
+""
+
+Variable 1 = 1
+Variable 2 = 1.5
+
+Constante = "Hola mundo"
+
+Entero = 1
+Decimales = 1.5
+Flotante 1 = Verdadero
+Fltante 2 = Falso
+Str = "Cadena de texto"
+
+print("Hola Python")
